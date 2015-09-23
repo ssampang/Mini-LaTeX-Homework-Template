@@ -8,4 +8,4 @@ Features:
 - Title section condenses the title, name, and date into a single large line without compromising title size
 - Includes the package/settings for referencing code files and images from the doc
 
-Check out the ![example:](assets/page1.png)![](assets/page2.png)
+Check out the example: ![](assets/page1.png)![](assets/page2.png)
