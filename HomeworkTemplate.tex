@@ -80,8 +80,6 @@
 } %Create horizontal rule command with 1 argument of line width
 \begin{document}
 
-%%% CONTENT SECTION %%%
-
 \parbox{\linewidth}{ %This structure separates the line into several parallel boxes
 \parbox{.08\linewidth}{}\hfill %Add a little space before the title so there isn't so much empty space in the center
 \parbox{.73\linewidth}{\fontsize{24}{20}\selectfont\thetitle}\hfill %title in large font
@@ -89,6 +87,9 @@
 }
 \horrule[2pt][-3.5pt][-6pt] % Create the bottom thick line below the title
 \normalsize % Get the font back to normal size
+
+%%% CONTENT SECTION %%%							%Begin writing here
+
 \section{Decision Trees}
 \subsection{Entropy and Classification Error}
 \subsubsection{}
