@@ -8,5 +8,4 @@ Features:
 - Title section condenses the title, name, and date into a single large line without compromising title size
 - Includes the package/settings for referencing code files and images from the doc
 
-Check out the example below:
-![alt text](HomeworkTemplate.pdf)
+Check out the ![example:](HomeworkTemplate.pdf)
