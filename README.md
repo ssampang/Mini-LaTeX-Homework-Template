@@ -9,4 +9,4 @@ Features:
 - Includes the package/settings for referencing code files and images from the doc
 
 Check out the example below:
-![alt tag](HomeworkTemplate.pdf)
+![alt text](HomeworkTemplate.pdf)
